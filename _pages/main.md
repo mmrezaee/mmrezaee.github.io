@@ -15,7 +15,7 @@ Papers
 ======
 
 <br>
-<img src="images/vrtm_EncDec.png" alt="" width="280" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+<img src="images/vrtm_EncDec.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **A Discrete Variational Recurrent Topic Model without the Reparametrization Trick**<br>
 NeurIPS 2020<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
