@@ -1,6 +1,5 @@
 ---
 layout: post
-comments: true
 title:  "Variational Inference"
 date:   2018-12-28
 permalink: /posts/2013/08/variational-inference/
