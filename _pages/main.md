@@ -15,6 +15,15 @@ Papers
 ======
 
 <br>
+<img src="images/SSDVAE_42.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
+**Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
+NAACL 2021<br>
+<font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
+<a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> </font>
+<br>
+
+
+<br>
 <img src="images/vrtm_EncDec_42.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **A Discrete Variational Recurrent Topic Model without the Reparametrization Trick**<br>
 NeurIPS 2020<br>
@@ -23,10 +32,10 @@ NeurIPS 2020<br>
 <br>
 
 
+
 <br>
-<img src="images/SSDVAE_42.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
-**Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
-NAACL 2021<br>
-<font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
-<a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> </font>
+<img src="images/survey_42.jpg" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
+**A Survey on Compressive Sensing: Classical Results and Recent Advancementsk**<br>
+Journal of Mathematical Modeling (JMM) 2019<br> Ahmad Mousavi, <font size = "3"> <b>Mehdi Rezaee</b>, Ramin Ayanzadeh<br> 
+<a href="https://jmm.guilan.ac.ir/article_4155_b84c66cd66053821ec4e8c2447fd3bf1.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/1908.01014.pdf">[Arxiv]</a> </font>
 <br>
