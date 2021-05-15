@@ -15,7 +15,7 @@ Papers
 ======
 
 <br>
-<img src="images/vrtm_EncDec.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
+<img src="images/vrtm_EncDec_42.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **A Discrete Variational Recurrent Topic Model without the Reparametrization Trick**<br>
 NeurIPS 2020<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
@@ -24,7 +24,7 @@ NeurIPS 2020<br>
 
 
 <br>
-<img src="images/SSDVAE.png" alt="" width="280" height="300" align="left" hspace="20" style=" border: #000000 2px outset;">
+<img src="images/SSDVAE_42.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
 NAACL 2021<br>
 <font size = "3"> <b>Mehdis Rezaee</b>, Frank Ferraro<br> 
