@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 2'
+title: 'EM Algorithm and Maximum Likelihood'
 date: 2018-12-28
 permalink: /posts/2013/08/EMalgorithm/
 tags:
