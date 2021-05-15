@@ -21,3 +21,12 @@ NeurIPS 2020<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
 <a href="https://proceedings.neurips.cc/paper/2020/file/9f1d5659d5880fb427f6e04ae500fc25-Paper.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.12055.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/VRTM">[Code]</a> </font>
 <br>
+
+
+<br>
+<img src="images/SSDVAE.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
+**Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
+NAACL 2021<br>
+<font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
+<a href="https://arxiv.org/pdf/2010.12055.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> </font>
+<br>
