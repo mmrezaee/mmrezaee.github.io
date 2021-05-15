@@ -28,5 +28,5 @@ NeurIPS 2020<br>
 **Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
 NAACL 2021<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
-<a href="https://arxiv.org/pdf/2010.12055.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> </font>
+<a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> </font>
 <br>
