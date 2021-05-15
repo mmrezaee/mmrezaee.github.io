@@ -1,7 +1,7 @@
 ---
 title: 'Rejection Sampling'
 date: 2018-12-28
-permalink: /posts/2012/08/new-post/
+permalink: /posts/2012/08/rejection-sampling/
 tags:
   - cool posts
   - category1
