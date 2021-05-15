@@ -259,7 +259,7 @@ $$
 
 [The Expectation Maximization Algorithm A short tutorial]: https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf
 
-  {% include disqus.html %}
+
 
 
 
