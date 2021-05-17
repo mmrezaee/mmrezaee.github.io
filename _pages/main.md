@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
+You can see the [publications](#paper-id).
 I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I am a graduate research assistant in the <a href="https://www.csee.umbc.edu/">Department of CSEE</a>, working with <a href="https://www.csee.umbc.edu/~ferraro/"> Dr. Frank Ferraro</a>.
 </p>
 
@@ -40,4 +41,4 @@ Journal of Mathematical Modeling (JMM) 2019<br> Ahmad Mousavi, <font size = "3">
 <br>
 
 
-You can see the [publications](#paper-id).
+
