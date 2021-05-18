@@ -8,7 +8,6 @@ redirect_from:
 <p align="justify"> 
 I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I am a graduate research assistant in the <a href="https://www.csee.umbc.edu/">Department of CSEE</a>, working with <a href="https://www.csee.umbc.edu/~ferraro/"> Dr. Frank Ferraro</a>. My research interests include machine learning and natural language processing.
 </p>
-For more, check out my [here](../files/mehdi_CV.pdf).
 
 
 # <a name="paper-id"></a> Papers
