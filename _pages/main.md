@@ -33,7 +33,7 @@ NeurIPS 2020<br>
 
 <br>
 <img src="images/survey_42.jpg" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
-**A Survey on Compressive Sensing: Classical Results and Recent Advancementsk**<br>
+**A Survey on Compressive Sensing: Classical Results and Recent Advancements**<br>
 Journal of Mathematical Modeling (JMM) 2019<br> Ahmad Mousavi, <font size = "3"> <b>Mehdi Rezaee</b>, Ramin Ayanzadeh<br> 
 <a href="https://jmm.guilan.ac.ir/article_4155_b84c66cd66053821ec4e8c2447fd3bf1.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/1908.01014.pdf">[Arxiv]</a> </font>
 <br>
