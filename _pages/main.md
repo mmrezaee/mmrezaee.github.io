@@ -13,9 +13,8 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 # <a name="paper-id"></a> Papers
 
 <br>
-<img src="images/SSDVAE_42.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
+<img src="images/situation.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **Discriminative and Generative Transformer-based Models For Situation Entity Classification**<br>
-NAACL 2021<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
 <a href="https://arxiv.org/pdf/2109.07434.pdf">[Arxiv]</a> </font>
 <br>
