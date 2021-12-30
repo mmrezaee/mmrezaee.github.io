@@ -26,7 +26,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 **Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
 NAACL 2021<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
-<a href="https://aclanthology.org/2021.naacl-main.374.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> </font>
+<a href="https://aclanthology.org/2021.naacl-main.374.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> <a href="https://colab.research.google.com/drive/1blsHkUReIrDhwvRVwEAUY3rGBrp7Up1I#scrollTo=uUNm5pag9Nnu">[Demo]</a></font>
 <br>
 
 
