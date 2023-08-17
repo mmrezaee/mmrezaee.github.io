@@ -20,7 +20,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 
 <div class="paper">
   <img src="images/RevUpModel.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
-  **RevUp: Revise and Update Information Bottleneck for Event Representation**<br>
+  <strong>RevUp: Revise and Update Information Bottleneck for Event Representation</strong><br>
   EACL 2023<br>
   <font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
   <a href="https://aclanthology.org/2023.eacl-main.56.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2205.12248.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/RevUp">[Code]</a></font>
@@ -28,7 +28,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 
 <div class="paper">
   <img src="images/sem.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
-  **Semantically-informed Hierarchical Event Modeling**<br>
+  <strong>Semantically-informed Hierarchical Event Modeling</strong><br>
   SEM 2023<br><br>
   Shubhashis Roy Dipta,<font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
   <a href="https://arxiv.org/pdf/2212.10547.pdf">[Arxiv]</a></font>
@@ -44,7 +44,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 
 <div class="paper">
   <img src="images/SSDVAE_42.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
-  **Event Representation with Sequential, Semi-Supervised Discrete Variables**<br>
+  <strong>Event Representation with Sequential, Semi-Supervised Discrete Variables</strong><br>
   NAACL 2021<br>
   <font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
   <a href="https://aclanthology.org/2021.naacl-main.374.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> <a href="https://colab.research.google.com/drive/1blsHkUReIrDhwvRVwEAUY3rGBrp7Up1I#scrollTo=uUNm5pag9Nnu">[Demo]</a></font>
@@ -53,7 +53,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 
 <div class="paper">
   <img src="images/vrtm_EncDec_42.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
-  **A Discrete Variational Recurrent Topic Model without the Reparametrization Trick**<br>
+  <strong>A Discrete Variational Recurrent Topic Model without the Reparametrization Trick</strong><br>
   NeurIPS 2020<br>
   <font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
   <a href="https://proceedings.neurips.cc/paper/2020/file/9f1d5659d5880fb427f6e04ae500fc25-Paper.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.12055.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/VRTM">[Code]</a></font>
@@ -62,7 +62,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 
 <div class="paper">
   <img src="images/survey_42.jpg" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
-  **A Survey on Compressive Sensing: Classical Results and Recent Advancements**<br>
+  <strong>A Survey on Compressive Sensing: Classical Results and Recent Advancements</strong><br>
   Journal of Mathematical Modeling (JMM) 2019<br> Ahmad Mousavi, <font size="3"><b>Mehdi Rezaee</b>, Ramin Ayanzadeh<br>
   <a href="https://jmm.guilan.ac.ir/article_4155_b84c66cd66053821ec4e8c2447fd3bf1.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/1908.01014.pdf">[Arxiv]</a></font>
 </div>
