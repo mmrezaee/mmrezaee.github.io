@@ -23,8 +23,8 @@ EACL 2023<br>
 <br>
 <img src="images/sem.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **Semantically-informed Hierarchical Event Modeling**<br>
-\*SEM 2023<br>
- Shubhashis Roy Dipta, <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
+SEM 2023<br>
+ Shubhashis Roy Dipta,<font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
  <a href="https://arxiv.org/pdf/2212.10547.pdf">[Arxiv]</a></font>
 <br>
 
