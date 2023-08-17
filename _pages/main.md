@@ -15,7 +15,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
 <br>
 <img src="images/RevUpModel.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
 **RevUp: Revise and Update Information Bottleneck for Event Representation**<br>
-<br>EACL 2023<br>
+EACL 2023<br>
 <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
 <a href="https://aclanthology.org/2023.eacl-main.56.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2205.12248.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/RevUp">[Code]</a>  </font>
 <br>
