@@ -40,7 +40,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
   <font size="3"><b>Mehdi Rezaee</b>, Kasra Darvish, Gaoussou Youssouf Kebe, Frank Ferraro<br>
   <a href="https://arxiv.org/pdf/2109.07434.pdf">[Arxiv]</a></font>
 </div>
-<br>
+
 
 <div class="paper">
   <img src="images/SSDVAE_42.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
@@ -49,7 +49,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
   <font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
   <a href="https://aclanthology.org/2021.naacl-main.374.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.04361.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/SSDVAE">[Code]</a> <a href="https://colab.research.google.com/drive/1blsHkUReIrDhwvRVwEAUY3rGBrp7Up1I#scrollTo=uUNm5pag9Nnu">[Demo]</a></font>
 </div>
-<br>
+
 
 <div class="paper">
   <img src="images/vrtm_EncDec_42.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
@@ -58,7 +58,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
   <font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
   <a href="https://proceedings.neurips.cc/paper/2020/file/9f1d5659d5880fb427f6e04ae500fc25-Paper.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2010.12055.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/VRTM">[Code]</a></font>
 </div>
-<br>
+
 
 <div class="paper">
   <img src="images/survey_42.jpg" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
