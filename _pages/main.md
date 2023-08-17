@@ -34,8 +34,6 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
   <a href="https://arxiv.org/pdf/2212.10547.pdf">[Arxiv]</a></font>
 </div>
 
-<!-- Continue with the other papers, using the same format -->
-
 <div class="paper">
   <img src="images/situation.png" alt="" width="280" height="230" align="left" hspace="20" style="border: #000000 2px outset;">
   **Discriminative and Generative Transformer-based Models For Situation Entity Classification**<br>
