@@ -20,6 +20,13 @@ EACL 2023<br>
 <a href="https://aclanthology.org/2023.eacl-main.56.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2205.12248.pdf">[Arxiv]</a> <a href="https://github.com/mmrezaee/RevUp">[Code]</a>  </font>
 <br>
 
+<br>
+<img src="images/sem.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
+**Semantically-informed Hierarchical Event Modeling**<br>
+\*SEM 2023<br>
+ Shubhashis Roy Dipta, <font size = "3"> <b>Mehdi Rezaee</b>, Frank Ferraro<br> 
+ <a href="https://arxiv.org/pdf/2212.10547.pdf">[Arxiv]</a></font>
+<br>
 
 <br>
 <img src="images/situation.png" alt="" width="280" height="230" align="left" hspace="20" style=" border: #000000 2px outset;">
