@@ -31,7 +31,7 @@ I am a Ph.D. student at the University of Maryland, Baltimore County (UMBC). I a
   <strong>Semantically-informed Hierarchical Event Modeling</strong><br>
   *SEM 2023<br><br>
   Shubhashis Roy Dipta,<font size="3"><b>Mehdi Rezaee</b>, Frank Ferraro<br>
-  <a href="https://arxiv.org/pdf/2212.10547.pdf">[Arxiv]</a></font>
+  <a href="https://aclanthology.org/2023.starsem-1.31.pdf">[Proceedings]</a> <a href="https://arxiv.org/pdf/2212.10547.pdf">[Arxiv]</a></font>
 </div>
 
 <div class="paper">
